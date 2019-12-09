@@ -1,0 +1,4 @@
+#Sat Nov 16 21:37:38 PKT 2019
+base.0=E\:\\Flutter-Quiz-App-master\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
